@@ -6,7 +6,7 @@ Portafolio profesional desarrollado para presentar mi perfil como **Backend Deve
 
 🔗 **URL del portafolio:**
 
-> [AGREGAR URL DE VERCEL AQUÍ]
+https://portafolio-juan-gualim.vercel.app/
 
 ---
 
